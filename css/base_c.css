@@ -1,0 +1,10 @@
+@charset "Shift_JIS";
+/*
+==================== CSS Introduce ====================
+base_c.css: This File
+template_c.css: Base Template Setting contents_c.css: Contents Setting
+ie.css: IE6 Bug Fix
+*/
+/* Imported Styles ----------------------------------------------- */
+@import url("./template_c.css"); 
+@import url("./contents_c.css"); 
