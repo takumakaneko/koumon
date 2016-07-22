@@ -310,8 +310,12 @@ p.resizeimage {
     position: absolute;
 	padding-bottom: 10000px;
 	margin-bottom: -10000px;
-	border-right:6px solid #f3f3f3;
+	border-right:0px solid #f3f3f3;
 	padding-top:40px;
+	box-shadow: -6px 0 6px 0 rgba(217,217,217,0.4) inset;
+    -webkit-box-shadow:  -6px 0  6px 0 rgba(217,217,217,0.4) inset;
+    -moz-box-shadow:  -6px 0  6px 0 rgba(217,217,217,0.4) inset;
+
   }
 
 #main #container2 .content1 {
